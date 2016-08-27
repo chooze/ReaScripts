@@ -1,6 +1,7 @@
 --[[
    * ReaScript Name: Split and half
    * Lua script for Cockos REAPER
+   * GIF demo: https://github.com/chooze/ReaScripts/blob/master/Items/Chooze_Split%20and%20half.gif
    * Author: Chooze
    * Author URI: http://vk.com/podushampublic http://choozeyoursound.com
    * Licence: GPL v3
