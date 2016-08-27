@@ -1,6 +1,7 @@
 --[[
  * ReaScript Name: Apply Tape-stop effect to selected items
  * Instructions: select item(s) and run the script
+ * GIF instruction: https://github.com/chooze/ReaScripts/raw/master/Various/Chooze_Apply%20Tape-stop%20effect%20to%20selected%20items.gif
  * Author: Chooze
  * Author URI: http://vk.com/podushampublic http://choozeyoursound.com
  * Licence: GPL v3
