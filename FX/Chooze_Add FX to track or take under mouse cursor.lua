@@ -1,5 +1,5 @@
 --[[
- * ReaScript Name: Add FX
+ * ReaScript Name: Add FX to track or take under mouse cursor
  * Instructions:
       1.1 to add FX to track - move mouse cursor over track control panel or mixer control panel
       1.2 to add FX to item/take - move mouse cursor over item/take
