@@ -4,6 +4,7 @@
       1.1 to add FX to track - move mouse cursor over track control panel or mixer control panel
       1.2 to add FX to item/take - move mouse cursor over item/take
       2. run this script by shortcut
+ * GIF demo: https://github.com/chooze/ReaScripts/blob/master/FX/Chooze_Add%20FX%20to%20track%20or%20take%20under%20mouse%20cursor.gif
  * Author: Chooze
  * Author URI: http://vk.com/podushampublic http://choozeyoursound.com
  * Licence: GPL v3
