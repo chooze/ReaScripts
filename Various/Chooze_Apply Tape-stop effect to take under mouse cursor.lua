@@ -1,6 +1,7 @@
 --[[
  * ReaScript Name: Apply Tape-stop effect to take under mouse cursor
- * Instructions: drag mouse cursor to item and run the script by shortcut
+ * Instructions: drag mouse cursor to take and run the script by shortcut
+ * GIF demo: https://github.com/chooze/ReaScripts/blob/master/Various/Chooze_Apply%20Tape-stop%20effect%20to%20take%20under%20mouse%20cursor.gif
  * Author: Chooze
  * Author URI: http://vk.com/podushampublic http://choozeyoursound.com
  * Licence: GPL v3
