@@ -47,4 +47,4 @@ it2 = reaper.GetSelectedMediaItem(0,i) MainSeveral(it2) end
 end
 
 reaper.UpdateArrange()
-reaper.Undo_EndBlock("Nudge item(s) pitch via mousewheel", -111)
+reaper.Undo_EndBlock("Nudge take(s) pitch via mousewheel", -111)
