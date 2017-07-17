@@ -1,5 +1,5 @@
 --[[
- * ReaScript Name: Apply Tape-stop effect to selected items
+ * ReaScript Name: Add FX to selected track(s) or take(s)
  * Instructions: 1. type FX Name in "fx_name" string, and preset name
    in "preset_name"
    2. select item(s) or track(s) 
@@ -63,7 +63,7 @@ if MouseX == 1 and CountItems > 0 then
     
     end    
     
-    r.Undo_EndBlock("Add "..fx_name.." to selected items", 0)
+    r.Undo_EndBlock("Add "..fx_name.." to selected takes", 0)
     
 end
 
