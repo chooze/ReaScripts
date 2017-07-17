@@ -85,4 +85,4 @@ if item then RunItems() else
     if a == "tcp" and b == "track" then CheckTracks()  end 
 end
 reaper.UpdateArrange()
-reaper.Undo_EndBlock("Nudge item(s) volume via mousewheel", -111)
+reaper.Undo_EndBlock("Nudge volume via mousewheel", -111)
